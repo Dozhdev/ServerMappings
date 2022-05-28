@@ -9,6 +9,14 @@
         ]
     },
     {
+        "id": "kaosmc",
+        "name": "KaosMC Network",
+        "addresses": [
+            "kaosmc.live",
+            "kaosmc.club"
+        ]
+    },
+    {
         "id": "menastro",
         "name": "Menastro Network",
         "addresses": [
