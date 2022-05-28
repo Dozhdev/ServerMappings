@@ -210,6 +210,14 @@
         ]
     },
     {
+        "id": "kaosmc",
+        "name": "KaosMC",
+        "addresses": [
+            "kaosmc.live",
+            "kaosmc.club"
+        ]
+    },
+    {
         "id": "cubehard",
         "name": "Cubehard",
         "addresses": [
